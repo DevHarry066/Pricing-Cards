@@ -1,9 +1,9 @@
-# Email Subscriber Card
+# SaaS Pricing Card with Tailwind
 
-This is basic Email subscriber card mini project to learn Tailwind basics
+This is basic Saas Pricing card mini project to learn Tailwind basics
 
 # Project Deployment link to Visit:
-## https://email-subscriber-card-iq1q.vercel.app/
+## https://pricing-cards-7mc2.vercel.app/
 
 ## Usage
 
